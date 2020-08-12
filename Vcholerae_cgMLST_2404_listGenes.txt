@@ -1,4 +1,3 @@
-0
 VCHOL0001.fasta
 VCHOL0002.fasta
 VCHOL0003.fasta
